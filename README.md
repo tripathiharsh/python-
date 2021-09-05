@@ -13,3 +13,5 @@ otherwise it will print "no this is not in the statement"
   ii:in lower
  if user will give command 'upper' then the sentence will print into upper case
  elif user will give command 'lower' then sentence will print into lower case <p>
+ # ASCII.py
+ This code is going to print ascii picture of cat.
